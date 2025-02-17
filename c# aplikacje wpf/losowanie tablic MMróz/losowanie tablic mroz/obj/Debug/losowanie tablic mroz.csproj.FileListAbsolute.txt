@@ -1,0 +1,15 @@
+C:\Users\MTS\source\repos\losowanie tablic mroz\losowanie tablic mroz\obj\Debug\losowanie tablic mroz.csproj.AssemblyReference.cache
+C:\Users\MTS\source\repos\losowanie tablic mroz\losowanie tablic mroz\obj\Debug\MainWindow.g.cs
+C:\Users\MTS\source\repos\losowanie tablic mroz\losowanie tablic mroz\obj\Debug\App.g.cs
+C:\Users\MTS\source\repos\losowanie tablic mroz\losowanie tablic mroz\obj\Debug\losowanie tablic mroz_MarkupCompile.cache
+C:\Users\MTS\source\repos\losowanie tablic mroz\losowanie tablic mroz\obj\Debug\losowanie tablic mroz_MarkupCompile.lref
+C:\Users\MTS\source\repos\losowanie tablic mroz\losowanie tablic mroz\bin\Debug\losowanie tablic mroz.exe.config
+C:\Users\MTS\source\repos\losowanie tablic mroz\losowanie tablic mroz\bin\Debug\losowanie tablic mroz.exe
+C:\Users\MTS\source\repos\losowanie tablic mroz\losowanie tablic mroz\bin\Debug\losowanie tablic mroz.pdb
+C:\Users\MTS\source\repos\losowanie tablic mroz\losowanie tablic mroz\obj\Debug\MainWindow.baml
+C:\Users\MTS\source\repos\losowanie tablic mroz\losowanie tablic mroz\obj\Debug\losowanie tablic mroz.g.resources
+C:\Users\MTS\source\repos\losowanie tablic mroz\losowanie tablic mroz\obj\Debug\losowanie_tablic_mroz.Properties.Resources.resources
+C:\Users\MTS\source\repos\losowanie tablic mroz\losowanie tablic mroz\obj\Debug\losowanie tablic mroz.csproj.GenerateResource.cache
+C:\Users\MTS\source\repos\losowanie tablic mroz\losowanie tablic mroz\obj\Debug\losowanie tablic mroz.csproj.CoreCompileInputs.cache
+C:\Users\MTS\source\repos\losowanie tablic mroz\losowanie tablic mroz\obj\Debug\losowanie tablic mroz.exe
+C:\Users\MTS\source\repos\losowanie tablic mroz\losowanie tablic mroz\obj\Debug\losowanie tablic mroz.pdb

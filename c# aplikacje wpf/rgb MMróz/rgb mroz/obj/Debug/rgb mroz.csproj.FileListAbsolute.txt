@@ -1,0 +1,15 @@
+C:\Users\MTS\source\repos\rgb mroz\rgb mroz\bin\Debug\rgb mroz.exe.config
+C:\Users\MTS\source\repos\rgb mroz\rgb mroz\bin\Debug\rgb mroz.exe
+C:\Users\MTS\source\repos\rgb mroz\rgb mroz\bin\Debug\rgb mroz.pdb
+C:\Users\MTS\source\repos\rgb mroz\rgb mroz\obj\Debug\rgb mroz.csproj.AssemblyReference.cache
+C:\Users\MTS\source\repos\rgb mroz\rgb mroz\obj\Debug\MainWindow.g.cs
+C:\Users\MTS\source\repos\rgb mroz\rgb mroz\obj\Debug\App.g.cs
+C:\Users\MTS\source\repos\rgb mroz\rgb mroz\obj\Debug\rgb mroz_MarkupCompile.cache
+C:\Users\MTS\source\repos\rgb mroz\rgb mroz\obj\Debug\rgb mroz_MarkupCompile.lref
+C:\Users\MTS\source\repos\rgb mroz\rgb mroz\obj\Debug\MainWindow.baml
+C:\Users\MTS\source\repos\rgb mroz\rgb mroz\obj\Debug\rgb mroz.g.resources
+C:\Users\MTS\source\repos\rgb mroz\rgb mroz\obj\Debug\rgb_mroz.Properties.Resources.resources
+C:\Users\MTS\source\repos\rgb mroz\rgb mroz\obj\Debug\rgb mroz.csproj.GenerateResource.cache
+C:\Users\MTS\source\repos\rgb mroz\rgb mroz\obj\Debug\rgb mroz.csproj.CoreCompileInputs.cache
+C:\Users\MTS\source\repos\rgb mroz\rgb mroz\obj\Debug\rgb mroz.exe
+C:\Users\MTS\source\repos\rgb mroz\rgb mroz\obj\Debug\rgb mroz.pdb

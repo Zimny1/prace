@@ -1,0 +1,15 @@
+C:\Users\MTS\source\repos\Delta\Delta\bin\Debug\Delta.exe.config
+C:\Users\MTS\source\repos\Delta\Delta\bin\Debug\Delta.exe
+C:\Users\MTS\source\repos\Delta\Delta\bin\Debug\Delta.pdb
+C:\Users\MTS\source\repos\Delta\Delta\obj\Debug\Delta.csproj.AssemblyReference.cache
+C:\Users\MTS\source\repos\Delta\Delta\obj\Debug\MainWindow.g.cs
+C:\Users\MTS\source\repos\Delta\Delta\obj\Debug\App.g.cs
+C:\Users\MTS\source\repos\Delta\Delta\obj\Debug\Delta_MarkupCompile.cache
+C:\Users\MTS\source\repos\Delta\Delta\obj\Debug\Delta_MarkupCompile.lref
+C:\Users\MTS\source\repos\Delta\Delta\obj\Debug\MainWindow.baml
+C:\Users\MTS\source\repos\Delta\Delta\obj\Debug\Delta.g.resources
+C:\Users\MTS\source\repos\Delta\Delta\obj\Debug\Delta.Properties.Resources.resources
+C:\Users\MTS\source\repos\Delta\Delta\obj\Debug\Delta.csproj.GenerateResource.cache
+C:\Users\MTS\source\repos\Delta\Delta\obj\Debug\Delta.csproj.CoreCompileInputs.cache
+C:\Users\MTS\source\repos\Delta\Delta\obj\Debug\Delta.exe
+C:\Users\MTS\source\repos\Delta\Delta\obj\Debug\Delta.pdb
