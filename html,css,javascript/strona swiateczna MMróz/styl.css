@@ -1,0 +1,71 @@
+body{
+  background-image: url(tlo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+}
+.lewo{
+  float: left;
+  width: 30vw;
+  margin-left: 5vw;
+  font-size: 2vw;
+  line-height: 0vw;
+}
+.mid{
+  float: left;
+  width: 30vw;
+}
+.mid p{
+  font-size: 3vw;
+}
+.prawo{
+  float: left;
+  width: 30vw;
+  margin-right: 4vw;
+}
+h1{
+  font-size: 5vw;
+  line-height: 0vw;
+}
+h2{
+  font-size: 2.5vw;
+  line-height: 0vw;
+}
+.mid form p{
+  font-size: 2.5vw;
+}
+.mid form select{
+  font-size: 1.25vw;
+  border-radius: 3%;
+}
+.mid form input[type="number"]{
+  font-size: 1vw;
+  border-radius: 3%;
+}
+.mid form input[type="button"]{
+  font-size: 1.5vw;
+  background-color: red;
+  border-radius: 10%;
+  color: white;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.choina{
+  width: 20vw;
+  height: auto;
+}
+.bomb1{
+  width: 20vw;
+  height: auto;
+  border: 1vw;
+  border-color: aqua;
+}
+.bomb2{
+  width: 20vw;
+  height: auto;
+}
+.bomb3{
+  width: 20vw;
+  height: auto;
+}

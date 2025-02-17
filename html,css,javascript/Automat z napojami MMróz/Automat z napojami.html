@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automat z napojami</title>
+
+    <style>
+        h1{
+            color: Green;
+            font-family: Cursive;
+            font-size:75px;
+        }
+        h2{
+            color: Green;
+            font-family: Cursive;
+            font-size:35px;
+        }
+        h6{
+            color: Black;
+            font-family: Cursive;
+            font-size:35px;
+        }
+        #a1,#a2,#a3,#a4,#a5,#a6{
+            width:100px;
+            height: 100px;
+            color: Black;
+            font-family: Cursive;
+            font-size:60px;
+            background-color: lightgray;
+        }
+        #a50gr,#a1zł,#a2zł,#a5zł{
+            width:125px;
+            height: 125px;
+            color: Black;
+            border-radius:100%;
+            font-family: Cursive;
+            font-size:50px;
+            background-color: lightgray;
+        }
+        #b{
+            width:200px;
+            height: 125px;
+            color: Black;
+            border-radius:100%;
+            font-family: Cursive;
+            font-size:50px;
+            background-color: lightgray;
+        }
+        img{
+            width: 500px;
+            height: auto;
+        }
+        body{
+            background-color: LightBlue;
+        }
+    </style>
+
+</head>
+<body>
+
+    <center>
+        <h1>Przekąski</h1>
+        <table>
+            <tr>
+                <td>
+                    <h2>1. Automat przyjmuje tylko monety od 50 gr do 5 zł  <br>
+                    2. Naciskaj monety które wrzucasz  <br>
+                    3. Naciśnij numer produktu  <br>
+                    4. Odbierz produkt i resztę  <br>
+                    </h2>
+                    
+                    <br><br><br><br><br>
+                    
+                    <h6 id="suma"></h6>                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <button id="b" onclick="wyplacanie();">Wypłać</button>
+                </td>
+                <td>
+                    <img src="Automat z napojami.png">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button id="a50gr" onclick="sumowanie('50');">50gr</button><button id="a1zł" onclick="sumowanie('1');">1zł</button>
+                    <button id="a2zł" onclick="sumowanie('2');">2zł</button><button id="a5zł" onclick="sumowanie('5');">5zł</button>
+                    <br><br>
+                    <button id="a1" onclick="wybieranie('1');">1</button>
+                    <button id="a2" onclick="wybieranie('2');">2</button>
+                    <button id="a3" onclick="wybieranie('3');">3</button><br>
+                    <button id="a4" onclick="wybieranie('4');">4</button>
+                    <button id="a5" onclick="wybieranie('5');">5</button>
+                    <button id="a6" onclick="wybieranie('6');">6</button>
+                </td>
+                <td>
+                    <h6 id="produkt"></h6>
+                </td>
+            </tr>
+    
+    </table>
+    </center>
+
+
+
+    <script type="text/javascript" src="javascript.js"></script>
+</body>
+</html>

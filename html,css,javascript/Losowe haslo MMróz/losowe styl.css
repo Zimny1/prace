@@ -1,0 +1,38 @@
+body{
+    font-family:"Comic Sans MS", "Comic Sans", cursive;
+    color:white;
+    background-color: rgb(42, 219, 219);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: top;
+    line-height: 10px;
+}
+.los{
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    line-height: 10px;
+}
+.los2{
+    color: green;
+    text-decoration: green underline;
+    font-size: 60px;
+    line-height: 10px;
+}
+#pole{
+    width: 450px;
+    height: 80px;
+    border-radius: 10%;
+    font-size:x-large;
+    color: white;
+    background: url(copy.png) no-repeat right;
+    background-size: 50px;
+}
+.guzik{
+    font-size: xx-large;
+    color: green;
+    width: 200px;
+    background: url(generate.png) no-repeat right;
+    background-size: 25px;
+}
