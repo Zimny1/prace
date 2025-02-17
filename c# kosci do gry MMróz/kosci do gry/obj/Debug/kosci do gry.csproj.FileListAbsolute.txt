@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\kosci do gry\kosci do gry\bin\Debug\kosci do gry.exe.config
+C:\Users\PC\source\repos\kosci do gry\kosci do gry\bin\Debug\kosci do gry.exe
+C:\Users\PC\source\repos\kosci do gry\kosci do gry\bin\Debug\kosci do gry.pdb
+C:\Users\PC\source\repos\kosci do gry\kosci do gry\obj\Debug\kosci do gry.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\kosci do gry\kosci do gry\obj\Debug\kosci do gry.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\kosci do gry\kosci do gry\obj\Debug\kosci do gry.exe
+C:\Users\PC\source\repos\kosci do gry\kosci do gry\obj\Debug\kosci do gry.pdb
+C:\Users\PC\Desktop\C#\kosci do gry\kosci do gry\obj\Debug\kosci do gry.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\kosci do gry\kosci do gry\obj\Debug\kosci do gry.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\kosci do gry\kosci do gry\obj\Debug\kosci do gry.exe
+C:\Users\PC\Desktop\C#\kosci do gry\kosci do gry\obj\Debug\kosci do gry.pdb
+C:\Users\PC\Desktop\C#\kosci do gry\kosci do gry\bin\Debug\kosci do gry.exe.config
+C:\Users\PC\Desktop\C#\kosci do gry\kosci do gry\bin\Debug\kosci do gry.exe
+C:\Users\PC\Desktop\C#\kosci do gry\kosci do gry\bin\Debug\kosci do gry.pdb
